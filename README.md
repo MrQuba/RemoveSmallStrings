@@ -1,5 +1,5 @@
 # RemoveSmallStrings
-Actually strings do not need to be small. Limit is integer limit
+Actually strings do not need to be small. Limit is integer max size
 This console takes as input:
 - Minimum amount of characters string needs to have to be kept, example:
   ```
